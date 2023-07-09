@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This is simple olx clone project made with react and firebase for learning purpose.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
