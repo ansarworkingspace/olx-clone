@@ -4,6 +4,7 @@ This is simple olx clone project made with react and firebase for learning purpo
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![image](https://github.com/ansarworkingspace/olx-clone/assets/136152544/21b6b4fc-1139-4992-b451-463f0468863f)
 
 In the project directory, you can run:
 
